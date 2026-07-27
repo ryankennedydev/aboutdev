@@ -27,7 +27,7 @@ This project was built with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aboutdev.git
+git clone https://github.com/ryankennedydev/aboutdev.git
 ```
 
 Navigate to the project folder:
