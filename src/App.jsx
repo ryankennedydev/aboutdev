@@ -5,6 +5,8 @@ import DescriptionArea from "./components/descriptions"
 import Footering from "./components/Footer";
 import AreaDev from "./components/AreaDev"
 
+import Contact from "./components/Contact";
+
 import { useState } from "react";
 
 function App() {
@@ -45,6 +47,7 @@ function App() {
       <AddTask/>
       <DescriptionArea/>
       <AreaDev/>
+      <Contact/>
       <Footering/>
       
       

@@ -51,7 +51,7 @@ function Footer(){
                         <Link to="/about">
                             <p className="transition-all duration-300 ease-in hover:text-blue-400">About us</p>
                         </Link>
-                        <a href="#categories">
+                        <a href="/#contact">
                             <p className="transition-all duration-300 ease-in hover:text-blue-400">Contact</p>
                         </a>
                         <a href="https://github.com/ryankennedydev/aboutdev">

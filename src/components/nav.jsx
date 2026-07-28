@@ -14,7 +14,7 @@ function Navbar() {
                 </Link>
                 
                 <ul className="flex gap-5 left-1/2  -translate-x-1/2 font-bold">
-                    <li className="flex text-white cursor-pointer transition-all duration-100 ease-in hover:text-gray-300">Document</li>
+                    
                     <Link to="/about" className="flex text-white cursor-pointer transition-all duration-100 ease-in hover:hover:text-gray-300">About</Link>
                 </ul>
                 <div>

@@ -29,8 +29,8 @@ function Contact(){
     
 
     return (
-        <main className="flex w-screen  h-screen bg-blue-950 border-1 items-center justify-center">
-            <form className="flex flex-col gap-5 bg-slate-900  h-fit p-10 w-fit  border-1 rounded-2xl border-slate-600/12">
+        <main  className="flex w-screen h-screen  bg-blue-950 border-1 items-center justify-center">
+            <form id="contact"  className="flex flex-col gap-5 bg-slate-900  h-fit p-10 w-fit  border-1 rounded-2xl border-slate-600/12">
                 <div className="flex gap-2 items-center font-bold text-2xl text-white">
                     <Mail className="size-10 p-2.5 bg-blue-500 rounded-lg"/>
                     <div className="font-bold ">
